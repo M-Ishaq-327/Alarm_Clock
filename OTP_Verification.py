@@ -12,7 +12,7 @@ otp_storage = {}
 
 # Step 3: Configure email settings
 sender_email = 'ishaqbhai327@gmail.com'
-app_password = 'uvea smrw jczh ewvk'  # Use the App Password you generated
+app_password = 'bla bla bla '  # Use the App Password you generated (use your own)
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
 
